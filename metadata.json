@@ -1,0 +1,6 @@
+{
+  "name": "تذكير الصيام والعبادة",
+  "description": "تطبيق إسلامي رائع ومقترن بالتقويم الهجري يوفر تذكيرات الصيام والصلوات ومسبحة رقمية وقيام الليل بدون إنترنت وبحسابات دقيقة",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
